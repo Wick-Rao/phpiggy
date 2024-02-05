@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
+# Auto detect text files and perform LF normalization lf & crlf is used for line breake.
 * text=auto
